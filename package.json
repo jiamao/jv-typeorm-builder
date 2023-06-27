@@ -1,0 +1,19 @@
+{
+  "name": "jv-typeorm-builder",
+  "version": "1.0.17",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pkg": "npm publish --registry=https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiamao/jv-typeorm-builder.git"
+  },
+  "author": "fefeding",
+  "license": "MIT",
+  "dependencies": {
+    "tslib": "^2.5.0"
+  }
+}
